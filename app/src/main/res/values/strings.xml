@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">愛知県クイズ</string>
+    <string name="app_description">愛知県の市町村クイズ</string>
+    <string name="start">クイズスタート！</string>
+    <string name="question1">第</string>
+    <string name="question2">問</string>
+    <string name="next">次の問題へ</string>
+    <string name="input">市町村名を入力してください</string>
+    <string name="inputExample">○○市</string>
+    <string name="check">答え合わせ</string>
+    <string name="finish">結果確認画面へ</string>
+    <string name="result">結果</string>
+    <string name="resultText1">5問中\n</string>
+    <string name="resultText2">問正解！\n</string>
+    <string name="back">最初の画面に戻る</string>
+    <string name="q1_ans">名古屋市</string>
+    <string name="q2_ans">豊田市</string>
+    <string name="q3_ans">日進市</string>
+    <string name="q4_ans">刈谷市</string>
+    <string name="q5_ans">半田市</string>
+</resources>
